@@ -6,5 +6,8 @@ The bootloader runs in 16-bit real mode and is loaded by the BIOS at 0x7C00 . Th
 This marks my first step towards building my own custom operating system from scratch. 
 learned a lot about:
 * how PCs actually boot
-*memory layout at startup
-*bare-metal programming 
+* memory layout at startup
+* bare-metal programming 
+
+
+<img width="1738" height="1440" alt="image" src="https://github.com/user-attachments/assets/5078a545-8afd-4425-bef3-a701ec41cb14" />
