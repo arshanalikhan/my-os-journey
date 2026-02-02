@@ -9,5 +9,5 @@ learned a lot about:
 * memory layout at startup
 * bare-metal programming 
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/70b34fe0-17ba-4745-ba9f-2e0d6249ce25" />
 
-<img width="1738" height="1440" alt="image" src="https://github.com/user-attachments/assets/5078a545-8afd-4425-bef3-a701ec41cb14" />
