@@ -24,7 +24,7 @@ from scratch.
 
 \## Current Status
 
-\- Day 1: Repository setup and bootloader fundamentals
+\- Day 2: BIOS -> bootloader -> kernel
 
 
 
