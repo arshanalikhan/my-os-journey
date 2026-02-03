@@ -9,3 +9,4 @@ what i worked on:
 * experimented with different QEMU display modes(-display curses) to get full screen output
 
 today wasn't about learning new concepts rather learning new methods of already known parameters
+<img width="2879" height="1799" alt="Screenshot 2026-02-03 002004" src="https://github.com/user-attachments/assets/12252518-14b6-4e1f-afed-e34147007c64" />
