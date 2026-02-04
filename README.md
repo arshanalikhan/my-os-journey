@@ -1,4 +1,4 @@
-\# OS Development Journey 
+# OS Development Journey 
 
 
 
@@ -10,25 +10,25 @@ from scratch.
 
 
 
-\## Structure
+## Structure
 
-\- docs/        → Daily learning logs
+- docs/        → Daily learning logs
 
-\- bootloader/ → Bootloader-related work
+- bootloader/ → Bootloader-related work
 
-\- kernel/     → Kernel-related work
+- kernel/     → Kernel-related work
 
-\- images/     → Screenshots and diagrams
-
-
-
-\## Current Status
-
-\- Day 4: Protected mode
+- images/     → Screenshots and diagrams
 
 
 
-\## Goal
+## Current Status
+
+- Day 4: Protected mode
+
+
+
+## Goal
 
 To build a custom operating system (integrating my both engineering branches; CE & CSE ) step by step while
 
