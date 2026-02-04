@@ -21,4 +21,4 @@ init_pm:
     mov ebp, 0x90000       ; 6. Update the stack right at the top of the free space
     mov esp, ebp
 
-    call BEGIN_PM          ; 7. Call a label we will define in boot.asm
+    call BEGIN_PM          ; 7. Call a label defined in boot.asm
