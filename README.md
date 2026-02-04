@@ -30,7 +30,7 @@ from scratch.
 
 \## Goal
 
-To build a custom operating system step by step while
+To build a custom operating system (integrating my both engineering branches; CE & CSE ) step by step while
 
 documenting everything I learn publicly.
 
