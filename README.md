@@ -12,13 +12,13 @@ from scratch.
 
 ## Structure
 
-- docs/        → Daily learning logs
+- docs        → Daily learning logs
 
-- bootloader/ → Bootloader-related work
+- bootloader → Bootloader-related work
 
-- kernel/     → Kernel-related work
+- kernel     → Kernel-related work
 
-- images/     → Screenshots and diagrams
+- images     → Screenshots and diagrams
 
 
 
