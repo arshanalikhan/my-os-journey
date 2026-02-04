@@ -7,7 +7,7 @@ main:
     call print_string_kernel
     jmp $
 
-print_string_kernel:  ; Simple print function for the kernel
+print_string_kernel:  ; print function
     mov ah, 0x0e
 .loop:
     mov al, [bx]
