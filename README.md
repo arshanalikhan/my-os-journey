@@ -24,7 +24,7 @@ from scratch.
 
 \## Current Status
 
-\- Day 2: BIOS -> bootloader -> kernel
+\- Day 4: Protected mode
 
 
 
