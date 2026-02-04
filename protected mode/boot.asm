@@ -8,21 +8,21 @@ mov sp, bp
 mov bx, MSG_REAL_MODE
 call print_string
 
-call switch_to_pm    ; Note: We never return from here
+call switch_to_pm    ; never return from here
 
 jmp $
 
 %include "gdt.asm"
-%include "print_string.asm"    ; Use your old 16-bit print file (create this if needed or paste code here)
+%include "print_string.asm"    
 %include "switch_to_pm.asm"
 %include "print_string_pm.asm"
 
 [bits 32]
 BEGIN_PM:
     mov ebx, MSG_PROT_MODE
-    call print_string_pm   ; Use our new 32-bit print function
+    call print_string_pm   ; 
 
-    jmp $                  ; Hang here for today
+    jmp $                  ; till here today
 
 ; Global variables
 BOOT_DRIVE: db 0
