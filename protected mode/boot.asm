@@ -1,6 +1,6 @@
 [org 0x7c00]
 
-mov [BOOT_DRIVE], dl ; Save the boot drive
+mov [BOOT_DRIVE], dl ; Save the boot drive 
 
 mov bp, 0x9000       ; Set the stack
 mov sp, bp
