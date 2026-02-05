@@ -1,4 +1,4 @@
-Day 2 of Building an OS from scratch (x86) 
+<img width="2879" height="1799" alt="Screenshot 2026-02-03 002004" src="https://github.com/user-attachments/assets/e13f076f-ed67-4ece-8ba4-fbfca09681f7" />Day 2 of Building an OS from scratch (x86) 
 
 what i worked on:
 * learned control flow at machine level (jmp$ , jmp 0x7c00) 
@@ -15,5 +15,6 @@ once the kernel starts, you own the hardware... just raw CPU+memory #OperatingSy
 
  
 <img width="2048" height="1279" alt="boot" src="https://github.com/user-attachments/assets/4d9c61b1-46ab-498c-878c-280b30e3f368" />
-![Uploading Screenshot 2026-02-01 222125.png…]()
 
+
+<img width="2880" height="1800" alt="Screenshot 2026-02-01 222125" src="https://github.com/user-attachments/assets/6473fcac-3deb-4fc2-8227-44bc3c83a5e5" />
