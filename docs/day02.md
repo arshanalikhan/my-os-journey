@@ -14,3 +14,5 @@ Today was full of set backs, repeated attempts, multiple problems and a long 5 h
 once the kernel starts, you own the hardware... just raw CPU+memory #OperatingSystems 
 
  
+<img width="2048" height="1279" alt="boot" src="https://github.com/user-attachments/assets/4d9c61b1-46ab-498c-878c-280b30e3f368" />
+<img width="2879" height="1799" alt="Screenshot 2026-02-03 002004" src="https://github.com/user-attachments/assets/aaef4741-fa36-4ecf-8fa9-5c42b8fe940e" />
