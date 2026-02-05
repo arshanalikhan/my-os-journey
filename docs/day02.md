@@ -13,3 +13,4 @@ what i worked on:
 Today was full of set backs, repeated attempts, multiple problems and a long 5 hour session of trial and error but in the end learning is 
 once the kernel starts, you own the hardware... just raw CPU+memory #OperatingSystems 
 
+ 
