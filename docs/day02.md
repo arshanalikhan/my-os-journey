@@ -1,4 +1,4 @@
-<img width="2879" height="1799" alt="Screenshot 2026-02-03 002004" src="https://github.com/user-attachments/assets/e13f076f-ed67-4ece-8ba4-fbfca09681f7" />Day 2 of Building an OS from scratch (x86) 
+# Day 2 of Building an OS from scratch (x86) 
 
 what i worked on:
 * learned control flow at machine level (jmp$ , jmp 0x7c00) 
