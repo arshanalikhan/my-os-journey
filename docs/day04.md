@@ -1,5 +1,5 @@
 Day 4 of building an OS from scratch (x86)
-
+ 
 what i worked on:
 
 * created a memory mapping system (GDT)
