@@ -1,6 +1,6 @@
 # Day 2 of Building an OS from scratch (x86) 
 
-what i worked on:
+## what i worked on:
 * learned control flow at machine level (jmp$ , jmp 0x7c00) 
 * handed control from bootloader to kernel 
 * wrote a minimal kernel that directly writes to VGA memory (0xB8000) 
