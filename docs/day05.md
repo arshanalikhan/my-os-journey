@@ -1,8 +1,8 @@
-Day 5 of building an OS from scratch (x86)
+# Day 5 of building an OS from scratch (x86)
 
 until this day i was writing in human readable machine code but to be fast enough C is introduced to this environment
 
-what i worked on:
+## what i worked on:
 
 * used the freestanding c concept to write into kernel
 * used linker (ld) to merge bootloader and kernel
