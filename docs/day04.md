@@ -1,6 +1,6 @@
-Day 4 of building an OS from scratch (x86)
+# Day 4 of building an OS from scratch (x86)
  
-what i worked on:
+## what i worked on:
 
 * created a memory mapping system (GDT)
 * it has 3 main segments - a safety requirement, executable code, data(variable)
