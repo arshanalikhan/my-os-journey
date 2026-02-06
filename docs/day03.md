@@ -1,9 +1,9 @@
-Day 3 of building an OS from scratch (x86)
+# Day 3 of building an OS from scratch (x86)
 
 yesterday kernel code was already executing, but today the threshold of 512 bytes is crossed intentionally and correctly
 
 
-what i worked on:
+## what i worked on:
 
 * loading the kernel from disk using BIOS INT 0x13
 
