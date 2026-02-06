@@ -11,7 +11,7 @@ switch_to_pm:
 
 [bits 32]
 init_pm:
-    mov ax, DATA_SEG       ; 5. Update segment registers
+    mov ax, DATA_SEG       ; 5. Update segment registers 
     mov ds, ax
     mov ss, ax
     mov es, ax
