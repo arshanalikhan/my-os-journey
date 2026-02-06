@@ -11,3 +11,5 @@ what i worked on:
 
 "Xuccessfully" landed in 32-bit Protected Mode - yes that x is intentional as it was overwritten from the c kernel
 
+<img width="2880" height="1800" alt="Screenshot 2026-02-05 144714" src="https://github.com/user-attachments/assets/dd69d89b-9ab3-47e2-b4a1-d66e4c739c4c" />
+<img width="1834" height="996" alt="Screenshot 2026-02-05 144453" src="https://github.com/user-attachments/assets/ed03c285-8ee7-4754-bf44-b5bb53a2b5de" />
