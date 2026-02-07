@@ -5,7 +5,7 @@ switch_to_pm:
 
     mov eax, cr0 
     or eax, 0x1            ; 3. Set 32-bit mode bit in CR0 
-    mov cr0, eax
+    mov cr0, eax 
  
     jmp CODE_SEG:init_pm   ; 4. Far jump by using a different segment
 
