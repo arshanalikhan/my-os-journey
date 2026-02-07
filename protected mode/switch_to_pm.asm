@@ -17,7 +17,7 @@ init_pm:
     mov es, ax
     mov fs, ax
     mov gs, ax
-
+ 
     mov ebp, 0x90000       ; 6. Update the stack right at the top of the free space
     mov esp, ebp
 
