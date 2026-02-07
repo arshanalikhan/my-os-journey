@@ -22,3 +22,4 @@ init_pm:
     mov esp, ebp
 
     call BEGIN_PM          ; 7. Call a label defined in boot.asm
+ 
