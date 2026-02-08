@@ -10,7 +10,7 @@ from scratch.
 
   
   
-## Structure
+## Structure 
 
 - docs        → Daily learning logs
 
