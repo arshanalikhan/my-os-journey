@@ -22,7 +22,7 @@ from scratch.
 
  
 
-### Current Status
+### Current Status 
 
 - Day 4: Protected mode
 
