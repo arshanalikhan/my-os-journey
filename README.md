@@ -9,7 +9,7 @@ low-level systems programming and operating system development
 from scratch. 
   
   
-   
+    
 ## Structure 
 
 - docs        → Daily learning logs
@@ -22,7 +22,7 @@ from scratch.
 
  
 
-## Current Status
+### Current Status
 
 - Day 4: Protected mode
 
