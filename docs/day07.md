@@ -1,4 +1,4 @@
-# Day 7 of building an OS from scratch (x86)
+# Day 7 of building an OS from scratch (x86) 
 
 this one took 2 days->
 
