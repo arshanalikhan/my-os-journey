@@ -14,7 +14,7 @@ I implemented the Interrupt Descriptor Table (IDT) so the processor knows where 
 * implemented the glue code (idt.c) to load the table into the CPU using the lidt instruction.
 * built ISR handlers in C to verify control flow returns safely to the kernel.
 * manually triggered a software interrupt (int $2) and confirmed the kernel caught it and resumed execution
-
+ 
 the screenshot shows: 
 installing ISRs -> interrupt triggered -> INTERRUPT RECEIVED -> back in kernel
 
