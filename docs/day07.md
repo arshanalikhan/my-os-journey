@@ -5,7 +5,7 @@ this one took 2 days->
 after building the display driver on Day 6, I thought the next step would be straight forward, it wasn’t
 
 for the last two days I’ve been working on giving the CPU “reflexes” that is implementing the Interrupt Descriptor Table (IDT)
-
+ 
 I implemented the Interrupt Descriptor Table (IDT) so the processor knows where to jump when an event interrupts normal execution
  
 ## What I worked on:
