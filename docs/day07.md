@@ -15,7 +15,7 @@ I implemented the Interrupt Descriptor Table (IDT) so the processor knows where 
 * built ISR handlers in C to verify control flow returns safely to the kernel.
 * manually triggered a software interrupt (int $2) and confirmed the kernel caught it and resumed execution
  
-the screenshot shows: 
+the screenshot shows:  
 installing ISRs -> interrupt triggered -> INTERRUPT RECEIVED -> back in kernel
   
 I didn’t post this immediately after day 6 because this part required debugging macro redefinitions, linker quirks, and assembly label conflicts
