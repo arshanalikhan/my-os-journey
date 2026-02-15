@@ -16,7 +16,7 @@ print_string_kernel:  ; print function
     int 0x10
     inc bx 
     jmp .loop
-.done:
+.done: 
     ret
 
 KERNEL_MSG: db "Successfully landed in the Kernel!", 0
