@@ -8,7 +8,7 @@ for the last two days I’ve been working on giving the CPU “reflexes” that 
    
 I implemented the Interrupt Descriptor Table (IDT) so the processor knows where to jump when an event interrupts normal execution
   
-## What I worked on:
+## What I worked on: 
 * defined the IDT gate structure (idt_gate_t) to strictly match the x86 hardware specification.
 * wrote low-level Assembly ISR stubs (interrupt.asm) to save CPU state (push registers) before handing control to C.
 * implemented the glue code (idt.c) to load the table into the CPU using the lidt instruction.
