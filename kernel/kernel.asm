@@ -18,5 +18,5 @@ print_string_kernel:  ; print function
     jmp .loop
 .done: 
     ret
-
+ 
 KERNEL_MSG: db "Successfully landed in the Kernel!", 0
