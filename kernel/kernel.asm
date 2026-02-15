@@ -14,7 +14,7 @@ print_string_kernel:  ; print function
     cmp al, 0
     je .done
     int 0x10
-    inc bx
+    inc bx 
     jmp .loop
 .done:
     ret
