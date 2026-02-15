@@ -1,7 +1,7 @@
 [org 0x9000]          ; tell NASM where this code will live in memory
 
 jmp main
-
+ 
 main:
     mov bx, KERNEL_MSG
     call print_string_kernel
