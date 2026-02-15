@@ -17,6 +17,6 @@ print_string_kernel:  ; print function
     inc bx 
     jmp .loop
 .done: 
-    ret
+    ret 
  
 KERNEL_MSG: db "Successfully landed in the Kernel!", 0
