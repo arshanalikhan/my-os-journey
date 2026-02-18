@@ -13,3 +13,5 @@ this required building a placement allocator and writing my first kmalloc driver
 * read back perfectly without crashing
 
 Just request -> allocate -> write -> read -> success
+
+![day10](https://github.com/user-attachments/assets/ad932ba0-1388-400e-95ae-09b6e310aa6b)
