@@ -24,7 +24,7 @@ from scratch.
 
 ### Current Status 
 
-- Day 4: Protected mode
+- Day 11:The File System (RamFS)
 
 
 
