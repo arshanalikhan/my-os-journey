@@ -19,3 +19,4 @@ write -> allocate -> index -> retrieve -> success
 
 Still volatile (RAM-based), but this is the first step toward persistent storage.
 
+<img width="2879" height="1799" alt="day11" src="https://github.com/user-attachments/assets/ccb584ca-0f42-41e7-b741-70560eb519b1" />
