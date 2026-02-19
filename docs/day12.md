@@ -16,3 +16,5 @@ if I typed something longer, it would break or ignore half of it
 now I can write full sentences to my file system and read them back correctly
 it finally feels less like a demo… and more like an operating system
 
+<img width="2879" height="1795" alt="Screenshot 2026-02-18 230753" src="https://github.com/user-attachments/assets/2bf68010-cf1a-4bf6-9864-b928ee2471ac" />
+<img width="2879" height="1798" alt="Screenshot 2026-02-18 230934" src="https://github.com/user-attachments/assets/52b1b5fa-89d8-4d2c-be79-f31e3a2489c9" />
