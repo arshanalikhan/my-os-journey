@@ -24,7 +24,7 @@ from scratch.
 
 ### Current Status 
 
-- Day 12:The File System (RamFS)
+- Day 12:The Smart Shell
 
 
 
