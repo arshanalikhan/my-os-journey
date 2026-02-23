@@ -1,8 +1,8 @@
-Day 14: The Invisible Shield (Virtual Memory & Paging) 
+# Day 14: The Invisible Shield (Virtual Memory & Paging) 
 
 Up until today, my OS has been living dangerously. It used direct Physical Memory. If a program accidentally wrote to address 0x0, it would overwrite the BIOS and instantly crash the entire computer
 
-today, I implemented Paging
+## today, I implemented Paging
 
 Paging introduces a layer of deception called Virtual Memory. Now, when a program asks for memory, the CPU checks my OS's "Page Directory" and "Page Tables" to secretly map that virtual address to a safe physical RAM frame (in 4KB chunks)
 
