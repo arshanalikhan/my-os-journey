@@ -12,3 +12,7 @@ to prove my Invisible Shield was working, I wrote a CRASH command in my shell th
 if Paging was off, the OS would have blindly read the garbage and kept going. Instead? the CPU's Memory Management Unit instantly blocked the read, threw a Page Fault, and triggered a hard reboot of the emulator
 
 Never been this happy when the system crashes :)
+
+
+https://github.com/user-attachments/assets/f2cfbabc-3c41-4ad6-b220-809cefd31e15
+
