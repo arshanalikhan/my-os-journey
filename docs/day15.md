@@ -14,3 +14,4 @@ this required programming the hardware PIT (Programmable Interval Timer) and dec
 
 Just hardware timer -> interrupt -> background buffer -> execute -> success
 <img width="1475" height="954" alt="Screenshot 2026-02-23 233603" src="https://github.com/user-attachments/assets/b47c2074-49a4-44fd-94ef-08e7187e611e" />
+<img width="1447" height="935" alt="Screenshot 2026-02-24 014859" src="https://github.com/user-attachments/assets/fa7fb352-6f98-4f05-b308-2122fbc039a6" />
