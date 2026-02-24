@@ -13,3 +13,4 @@ this required programming the hardware PIT (Programmable Interval Timer) and dec
 * Smart ISR correctly routes the CRASH test to a custom Page Fault handler
 
 Just hardware timer -> interrupt -> background buffer -> execute -> success
+<img width="1475" height="954" alt="Screenshot 2026-02-23 233603" src="https://github.com/user-attachments/assets/b47c2074-49a4-44fd-94ef-08e7187e611e" />
