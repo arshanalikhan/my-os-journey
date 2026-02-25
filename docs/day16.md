@@ -14,3 +14,7 @@ this required building a dynamic block allocator with hidden meta-headers to tra
 Allocator searches the linked list, finds the newly freed block, and reuses 0x0001600C perfectly instead of taking new RAM
 
 Just allocate -> free -> reallocate -> reuse -> success
+
+
+<img width="1668" height="991" alt="Screenshot 2026-02-24 150943" src="https://github.com/user-attachments/assets/93febdc6-ebf3-4eca-acf1-2f12eec83ba9" />
+
