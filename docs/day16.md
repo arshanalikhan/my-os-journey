@@ -1,4 +1,4 @@
-Day 16: The Heap (Memory Recycling) 
+# Day 16: The Heap (Memory Recycling) 
 
 Yesterday, memory was a one-way street where every allocation was a permanent leak.
 Today, the OS recycles.
