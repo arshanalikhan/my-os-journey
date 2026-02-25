@@ -5,7 +5,7 @@ Today, the OS recycles.
 
 this required building a dynamic block allocator with hidden meta-headers to track free/used states.
 
-What’s happening in the image:
+## What’s happening in the image:
 * OS requests 100 bytes (malloc)
 * Allocator hands over address 0x0001600C
 * OS releases the pointer (free)
