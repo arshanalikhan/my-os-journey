@@ -14,5 +14,4 @@ what’s happening in the image:
 
 allocate -> save state -> swap stack -> restore state -> success
 
-hashtag#OperatingSystems hashtag#OSDev hashtag#x86 hashtag#KernelDevelopment hashtag#LowLevelProgramming hashtag#Multitasking hashtag#ComputerArchitecture hashtag#SystemsProgramming hashtag#CProgramming hashtag#GCC hashtag#NASM hashtag#QEMU
  
