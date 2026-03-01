@@ -15,3 +15,7 @@ this required building a task scheduler, giving each thread its own memory stack
 allocate -> save state -> swap stack -> restore state -> success
 
  
+
+
+https://github.com/user-attachments/assets/1a2b19ed-25b3-4fcc-9e64-780c45c9da7d
+
