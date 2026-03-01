@@ -5,7 +5,7 @@ Today, it lives in parallel universes
 
 this required building a task scheduler, giving each thread its own memory stack, and writing assembly to swap CPU registers on the fly
 
-what’s happening in the image:
+## what’s happening in the image:
 * MULTITASK command initializes the Task Control Blocks
 * task A (green) prints and yields the CPU
 * task B (red) prints and yields the CPU
