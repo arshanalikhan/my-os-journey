@@ -1,4 +1,4 @@
-# Day 24: Building the C Standard Library (libc) 📚
+# Day 24: Building the C Standard Library (libc)
 
 Yesterday, my OS loaded an external app, but its text strings were completely invisible because the compiler scattered them across unmapped memory segments.
 Today, the apps have a voice.
@@ -15,3 +15,5 @@ this required building a custom libc to wrap complex assembly syscalls into clea
 Just compile -> link data & code -> trap to kernel -> print -> success
 
 #OperatingSystems #OSDev #x86 #KernelDevelopment #SystemsProgramming #CProgramming #CompilerDesign #Linker #GCC #QEMU
+
+<img width="1544" height="1030" alt="Screenshot 2026-03-06 144343" src="https://github.com/user-attachments/assets/154c60f7-204c-4b5f-bdc6-c0c7f2805e4a" />
