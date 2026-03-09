@@ -15,3 +15,4 @@ this required importing a raw 8x8 Bitmap Font array and writing a C driver to tr
 
 Just map font -> read bits -> calculate offset -> paint pixel -> success
 
+<img width="1384" height="1030" alt="Screenshot 2026-03-07 163928" src="https://github.com/user-attachments/assets/9d5d4360-3182-45c1-bc77-9e4f6d12a0f7" />
