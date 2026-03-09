@@ -1,4 +1,4 @@
-Day 27: The Font Renderer (Typography in the Matrix) 
+# Day 27: The Font Renderer (Typography in the Matrix) 
 
 Yesterday, I switched my OS into VGA Graphics Mode (320x200 pixels). I gained infinite visual freedom but lost my interactive text shell, because the hardware no longer draws ASCII characters for me
 
@@ -6,7 +6,7 @@ Today, I built a custom Font Renderer to get my voice back
 
 this required importing a raw 8x8 Bitmap Font array and writing a C driver to translate raw binary bits into X/Y pixel coordinates on the screen
 
-what’s happening in the image:
+## what’s happening in the image:
 * the OS paints the background scene using primitive shape algorithms (draw_rect, fill_screen)
 * the kprint_gui function reads my custom text strings
 * it loops through the 8x8 binary grid for each specific character
