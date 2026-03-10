@@ -9,7 +9,7 @@ this required importing a raw 8x8 Bitmap Font array and writing a C driver to tr
 ## what’s happening in the image:
 * the OS paints the background scene using primitive shape algorithms (draw_rect, fill_screen)
 * the kprint_gui function reads my custom text strings
-* it loops through the 8x8 binary grid for each specific character
+* it loops through the 8x8 binary grid for each specific character 
 * using bitwise operations, it checks if a bit is 1 (paint the pixel) or 0 (skip it)
 * Result: flawless, custom-colored typography rendered pixel-by-pixel directly on top of the graphical canvas!
 
