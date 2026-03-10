@@ -11,7 +11,7 @@ this required importing a raw 8x8 Bitmap Font array and writing a C driver to tr
 * the kprint_gui function reads my custom text strings
 * it loops through the 8x8 binary grid for each specific character 
 * using bitwise operations, it checks if a bit is 1 (paint the pixel) or 0 (skip it)
-* Result: flawless, custom-colored typography rendered pixel-by-pixel directly on top of the graphical canvas!
+* Result: flawless, custom-colored typography rendered pixel-by-pixel directly on top of the graphical canvas! 
 
 Just map font -> read bits -> calculate offset -> paint pixel -> success 
 
