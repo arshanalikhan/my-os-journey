@@ -1,4 +1,4 @@
-# Day 29 of building my own Operating System from scratch: I finally have a True GUI Mouse Cursor! 🖱️🚀
+# Day 29 of building my own Operating System from scratch: I finally have a True GUI Mouse Cursor!
 
 Drawing a pixel on a screen is easy. Building a cursor that "floats" seamlessly over your UI without permanently erasing the pixels underneath it is a completely different beast.
 
