@@ -7,7 +7,7 @@ But after 30 dedicated coding sessions, I reached a massive milestone: I mapped 
 ## Here is a look under the hood at the actual directory tree I’ve built so far:
 
 📂 myos/
-├── Makefile (Compiles, links, and packs the 100-sector OS image)
+├── Makefile (Compiles, links, and packs the 100-sector OS image) 
 ├── boot.asm (16-bit real mode bootloader using LBA/DAP)
 ├── kernel_entry.asm (The Assembly bridge to C)
 │
