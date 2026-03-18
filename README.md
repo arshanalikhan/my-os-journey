@@ -9,7 +9,8 @@ I didn't build this in 30 consecutive days. Between studying and life, I've been
 But after 30 dedicated coding sessions, I reached a massive milestone: building a fully functional operating system from absolute bare metal, where every pixel, interrupt, and memory allocation is explicitly managed by custom code.
 
 <p align="center">
-  <img src="[Insert Screenshot link here]" alt="Arshan OS GUI Window Manager" width="700">
+  <img src="<img width="2637" height="1430" alt="Screenshot 2026-03-19 034101" src="https://github.com/user-attachments/assets/6a206a78-5c44-4e08-8730-ebe6de5724b3" />
+" alt="Arshan OS GUI Window Manager" width="700">
 </p>
 
 ## ✨ Key Features Built
