@@ -1,0 +1,6 @@
+# Ignore compiled objects and binaries
+*.o
+*.bin
+*.elf
+*.img
+os-image.bin
