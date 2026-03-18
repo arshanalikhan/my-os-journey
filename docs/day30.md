@@ -4,7 +4,7 @@ I didn't build this in 30 consecutive days. Between studying and life, I've been
 
 But after 30 dedicated coding sessions, I reached a massive milestone: I mapped out the entire architecture of my OS, and I successfully built a Draggable GUI Window Manager!
 
-## Here is a look under the hood at the actual directory tree I’ve built so far:
+## here is a look under the hood at the actual directory tree I’ve built so far:
 
 📂 myos/
 ├── Makefile (Compiles, links, and packs the 100-sector OS image) 
