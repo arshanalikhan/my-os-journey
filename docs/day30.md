@@ -6,31 +6,37 @@ But after 30 dedicated coding sessions, I reached a massive milestone: I mapped 
 
 ## here is a look under the hood at the actual directory tree I’ve built so far:
 
-📂 myos/
-├── Makefile (Compiles, links, and packs the 100-sector OS image) 
-├── boot.asm (16-bit real mode bootloader using LBA/DAP)
-├── kernel_entry.asm (The Assembly bridge to C)
+```text
+my-os-journey/
+├── Makefile              # Compiles C/ASM, links, and packs the 100-sector OS image
+├── boot.asm              # 16-bit LBA Bootloader
+├── kernel_entry.asm      # Assembly bridge to C
 │
-├── 🧠 kernel/ (The OS Core)
-│   ├── kernel.c (Main loop, Compositing Engine, Drag Logic) 
-│   ├── mem.c (Dynamic memory allocator)
-│   ├── syscall.c (Gateway for user apps)
-│   └── task.c (Multitasking scheduler)
+├── kernel/               # 🧠 The OS Core
+│   ├── kernel.c          # Main loop, Compositing Engine, Drag Logic
+│   ├── mem.c             # Dynamic memory allocator (Heap)
+│   ├── syscall.c         # int 0x80 Gateway for user apps
+│   ├── task.c            # Multitasking scheduler
+│   └── string.c          # Custom string library clones
 │
-├── 🔌 drivers/ (Hardware Abstraction)
-│   ├── mouse.c (PS/2 parser, tracks X/Y & left-clicks)
-│   ├── keyboard.c (Scancode to ASCII translator)
-│   ├── vga.c (Mode 13h pixel & rectangle plotting)
-│   ├── gui_text.c (Custom 8x8 typography engine)
-│   └── timer.c (PIT hardware clock)
+├── drivers/              # 🔌 Hardware Abstraction Layer
+│   ├── mouse.c           # PS/2 parser, tracks X/Y & left-clicks
+│   ├── keyboard.c        # Scancode to ASCII translator
+│   ├── vga.c             # Mode 13h pixel & primitive drawing
+│   ├── gui_text.c        # Custom 8x8 typography engine
+│   ├── timer.c           # PIT hardware clock (Uptime & Sleep)
+│   └── fs.c              # RAM File System
 │
-├── ⚙️ cpu/ (x86 Architecture)
-│   ├── isr.c / idt.c (Interrupt Service Routines & Tables)
-│   ├── gdt.c (Global Descriptor Table / Security Rings)
-│   └── paging.c (Virtual Memory mapping)
+├── cpu/                  # ⚙️ x86 Architecture
+│   ├── isr.c / idt.c     # Interrupt Service Routines & Tables
+│   ├── gdt.c             # Global Descriptor Table (Security Rings)
+│   └── paging.c          # Virtual Memory mapping
 │
-└── 🧑‍💻 userland/ (Application Layer)
-└── app.c / libc.c (External apps & standard library clones)
+├── userland/             # 🧑‍💻 The Application Layer
+│   └── app.c / libc.c    # External ELF apps & standard library wrappers
+│
+└── docs/                 # 📓 Daily journey documentation
+```
 
 To cap off Session 30, I upgraded the mouse driver to detect left-clicks, wrote bounding-box collision math, and programmed the OS to let me physically click and drag a GUI window across my custom graphical canvas without tearing the pixels beneath it
 
