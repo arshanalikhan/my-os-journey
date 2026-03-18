@@ -12,7 +12,7 @@ But after 30 dedicated coding sessions, I reached a massive milestone: I mapped 
 ├── kernel_entry.asm (The Assembly bridge to C)
 │
 ├── 🧠 kernel/ (The OS Core)
-│   ├── kernel.c (Main loop, Compositing Engine, Drag Logic)
+│   ├── kernel.c (Main loop, Compositing Engine, Drag Logic) 
 │   ├── mem.c (Dynamic memory allocator)
 │   ├── syscall.c (Gateway for user apps)
 │   └── task.c (Multitasking scheduler)
